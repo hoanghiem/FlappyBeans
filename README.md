@@ -1,4 +1,4 @@
-# PowerAppsGame Flappy Bean
+# PowerApps Game Flappy Bean
 Do you remember the famous Flappy Bird? 🐦
 
 I rebuilt the game using PowerApps
