@@ -13,22 +13,23 @@ Sound from Zapsplat.com
 - [Audio Background Music](https://www.zapsplat.com/music/game-music-action-retro-8-bit-style-bouncy-hard-dance-track-with-electronic-synths-and-drums/)
 
 ## Demo
-### Flappy Beans V1 - Simple Version
-One obstacle
+### Flappy Beans V1 - Simple Version 
+One obstacle - [Get the app FlappyBeanV1-SimpleVersion.msapp](Apps/FlappyBeanV1-SimpleVersion.msapp)
 
 ![Flappy Beans V1 Images](images/FlappyBeansV1.gif)
 ![Flappy Beans V1 Images](images/FlappyBeansV1.png)
 
-### Flappy Beans V2
-Multiple obstacles (App will be availavle on Github soon)
+### Flappy Beans V2 - Full Version
+Multiple obstacles - [Get the app FlappyBeanV2-FullVersion.msapp](Apps/FlappyBeanV2-FullVersion.msapp)
 
+![Flappy Beans V2 Images](images/FlappyBeansV2.png)
 ![Flappy Beans V2 Images](images/FlappyBeanIntro.gif)
 
 ## Technologies Used
 PowerApps Canvas App
 
 ## Installation
-1. Download FlappyBean-SimpleVersion.msapp
+1. Download [FlappyBeanV1-SimpleVersion.msapp](Apps/FlappyBeanV1-SimpleVersion.msapp) or [FlappyBeanV2-FullVersion.msapp](Apps/FlappyBeanV2-FullVersion.msapp)
 2. Go to https://make.powerapps.com/
 3. Go the Apps tab.
 3. Select New app > Canvas app > Phone
